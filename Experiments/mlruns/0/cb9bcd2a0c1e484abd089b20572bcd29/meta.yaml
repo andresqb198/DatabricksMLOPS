@@ -1,0 +1,15 @@
+artifact_uri: file:///home/andresq/Desktop/Github/DatabricksMLOPS/Experiments/mlruns/0/cb9bcd2a0c1e484abd089b20572bcd29/artifacts
+end_time: 1733509548296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb9bcd2a0c1e484abd089b20572bcd29
+run_name: dazzling-tern-209
+run_uuid: cb9bcd2a0c1e484abd089b20572bcd29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733509548287
+status: 4
+tags: []
+user_id: andresq

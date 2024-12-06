@@ -1,0 +1,15 @@
+artifact_uri: file:///home/andresq/Desktop/Github/DatabricksMLOPS/Experiments/mlruns/0/1c690b7da482479b8241995b2f992aae/artifacts
+end_time: 1733509051059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c690b7da482479b8241995b2f992aae
+run_name: hilarious-ape-828
+run_uuid: 1c690b7da482479b8241995b2f992aae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733509048617
+status: 3
+tags: []
+user_id: andresq

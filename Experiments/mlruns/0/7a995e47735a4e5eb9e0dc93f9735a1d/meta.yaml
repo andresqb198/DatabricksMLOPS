@@ -1,0 +1,15 @@
+artifact_uri: file:///home/andresq/Desktop/Github/DatabricksMLOPS/Experiments/mlruns/0/7a995e47735a4e5eb9e0dc93f9735a1d/artifacts
+end_time: 1733509313204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a995e47735a4e5eb9e0dc93f9735a1d
+run_name: respected-shrike-134
+run_uuid: 7a995e47735a4e5eb9e0dc93f9735a1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733509313062
+status: 4
+tags: []
+user_id: andresq

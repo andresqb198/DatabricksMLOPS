@@ -1,0 +1,15 @@
+artifact_uri: file:///home/andresq/Desktop/Github/DatabricksMLOPS/Experiments/mlruns/0/e705133845b74f88bda3840448c285ac/artifacts
+end_time: 1733509955851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e705133845b74f88bda3840448c285ac
+run_name: bouncy-goat-504
+run_uuid: e705133845b74f88bda3840448c285ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733509955844
+status: 4
+tags: []
+user_id: andresq

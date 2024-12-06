@@ -1,0 +1,15 @@
+artifact_uri: file:///home/andresq/Desktop/Github/DatabricksMLOPS/Experiments/mlruns/0/03dc08e4d85549bcb46d21682bc648bc/artifacts
+end_time: 1733508902548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03dc08e4d85549bcb46d21682bc648bc
+run_name: zealous-shoat-369
+run_uuid: 03dc08e4d85549bcb46d21682bc648bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733508900122
+status: 3
+tags: []
+user_id: andresq

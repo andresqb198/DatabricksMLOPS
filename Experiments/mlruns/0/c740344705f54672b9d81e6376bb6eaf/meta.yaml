@@ -1,0 +1,15 @@
+artifact_uri: file:///home/andresq/Desktop/Github/DatabricksMLOPS/Experiments/mlruns/0/c740344705f54672b9d81e6376bb6eaf/artifacts
+end_time: 1733510020233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c740344705f54672b9d81e6376bb6eaf
+run_name: skillful-auk-571
+run_uuid: c740344705f54672b9d81e6376bb6eaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733510017995
+status: 3
+tags: []
+user_id: andresq

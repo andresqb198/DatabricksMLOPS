@@ -1,0 +1,15 @@
+artifact_uri: file:///home/andresq/Desktop/Github/DatabricksMLOPS/Experiments/mlruns/0/ca345b685d234accb13b618797aafa71/artifacts
+end_time: 1733509724816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca345b685d234accb13b618797aafa71
+run_name: dazzling-fowl-655
+run_uuid: ca345b685d234accb13b618797aafa71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733509724805
+status: 4
+tags: []
+user_id: andresq

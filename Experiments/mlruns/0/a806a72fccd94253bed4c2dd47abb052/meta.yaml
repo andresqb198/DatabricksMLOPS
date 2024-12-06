@@ -1,0 +1,15 @@
+artifact_uri: file:///home/andresq/Desktop/Github/DatabricksMLOPS/Experiments/mlruns/0/a806a72fccd94253bed4c2dd47abb052/artifacts
+end_time: 1733509380433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a806a72fccd94253bed4c2dd47abb052
+run_name: hilarious-flea-898
+run_uuid: a806a72fccd94253bed4c2dd47abb052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733509380423
+status: 4
+tags: []
+user_id: andresq

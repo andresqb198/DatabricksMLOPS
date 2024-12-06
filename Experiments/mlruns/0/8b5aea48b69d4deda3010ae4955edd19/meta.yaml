@@ -1,0 +1,15 @@
+artifact_uri: file:///home/andresq/Desktop/Github/DatabricksMLOPS/Experiments/mlruns/0/8b5aea48b69d4deda3010ae4955edd19/artifacts
+end_time: 1733509716328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b5aea48b69d4deda3010ae4955edd19
+run_name: silent-ant-179
+run_uuid: 8b5aea48b69d4deda3010ae4955edd19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733509713800
+status: 3
+tags: []
+user_id: andresq
